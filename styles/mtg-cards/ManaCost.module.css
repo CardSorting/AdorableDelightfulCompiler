@@ -1,0 +1,10 @@
+/* styles/mtg-cards/ManaCost.module.css */
+
+.manaCost {
+  display: flex;
+  align-items: center;
+}
+
+.manaSymbol {
+  margin-right: 2px;
+}
